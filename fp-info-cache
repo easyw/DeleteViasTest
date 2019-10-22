@@ -1,0 +1,1751 @@
+369482151692082
+a_ANCHORS
+1pinD22-5mm
+Mounting hole
+Mounting hole
+0
+1
+1
+a_ANCHORS
+1pinD22-round-drilled-6
+
+
+0
+7
+1
+a_ANCHORS
+1pinD32
+
+
+0
+1
+1
+a_ANCHORS
+1pinD32-drilled
+
+
+0
+9
+1
+a_ANCHORS
+1pinD32-drilled-6
+
+
+0
+7
+1
+a_ANCHORS
+1pinD32-round-drilled-6
+
+
+0
+7
+1
+a_ANCHORS
+1pinD35
+module 1 pin (ou trou mecanique de percage)
+DEV
+0
+1
+1
+a_ANCHORS
+1pinD35-NPTH-drilled
+
+
+0
+8
+1
+a_ANCHORS
+1pinD35-drilled
+
+
+0
+9
+1
+a_ANCHORS
+1pinD35-drilled-6
+
+
+0
+7
+1
+a_ANCHORS
+1pinD35-round-drilled-6
+
+
+0
+7
+1
+a_ANCHORS
+HoleD32
+
+
+0
+0
+0
+a_ANCHORS
+Hole_2.5-5mm
+Mounting hole
+Mounting hole
+0
+0
+0
+a_ANCHORS
+Hole_3.5-6.5mm
+Mounting hole
+Mounting hole
+0
+0
+0
+a_ANCHORS
+Hole_6.5-7.0mm
+Mounting hole
+Mounting hole
+0
+0
+0
+a_ANCHORS
+alignment anchor
+
+
+0
+0
+0
+a_ANCHORS
+logo-3D-robit
+
+
+0
+0
+0
+a_ANCHORS
+m-anchor
+
+
+0
+0
+0
+a_ANCHORS
+pcb
+
+
+0
+0
+0
+a_ANCHORS
+test
+
+
+0
+0
+0
+a_ANCHORS
+test1
+
+
+0
+7
+1
+a_CONNECTORS
+1pinD14
+module 1 pin (ou trou mecanique de percage)
+DEV
+0
+1
+1
+a_CONNECTORS
+BatteryHolder_LINX_BAT-HLD-012-SMT
+SMT battery holder for CR1216/1220/1225 
+battery holder coin cell cr1216 cr1220 cr1225
+0
+3
+2
+a_CONNECTORS
+CDT7300-3V
+3-way 5mm pitch terminal block, CDT7300 series Vertical
+
+0
+3
+3
+a_CONNECTORS
+DB9F-RA
+2301844-2 DB9F-RA
+Connector
+0
+11
+10
+a_CONNECTORS
+DB9M-RA
+2301843-2 DB9M-RA
+Connector
+0
+11
+10
+a_CONNECTORS
+DB15F-RA
+2301845-2
+Connector DB15
+0
+17
+16
+a_CONNECTORS
+DB37FC
+Connecteur DB37 femelle couche
+CONN DB37
+0
+39
+38
+a_CONNECTORS
+DB_15F_V
+D-SUB 15 pin socket vert, Tyco P/N C-3-1634223-2
+
+0
+32
+16
+a_CONNECTORS
+DB_15F_V-old3
+D-SUB 15 pin socket vert, Tyco P/N C-3-1634223-2
+
+0
+32
+16
+a_CONNECTORS
+DB_25F_V
+D-SUB 25 pin
+
+0
+52
+26
+a_CONNECTORS
+DB_25F_V_old
+D-SUB 25 pin
+
+0
+52
+26
+a_CONNECTORS
+DB_25M
+D-SUB 25 pin plug, Tyco P/N 5747842-5
+
+0
+27
+25
+a_CONNECTORS
+DB_25M-2
+D-SUB 25 pin plug, Tyco P/N 5747842-5
+
+0
+0
+0
+a_CONNECTORS
+DB_25M_V
+D-SUB 25 pin plug, Tyco P/N 5747842-5
+
+0
+52
+26
+a_CONNECTORS
+DB_25M_V - Copy
+D-SUB 25 pin plug, Tyco P/N 5747842-5
+
+0
+52
+26
+a_CONNECTORS
+DB_25M_V - Copy (2)
+D-SUB 25 pin plug, Tyco P/N 5747842-5
+
+0
+52
+26
+a_CONNECTORS
+DB_25M_V-old
+D-SUB 25 pin plug, Tyco P/N 5747842-5
+
+0
+27
+26
+a_CONNECTORS
+DB_25M_V-old1
+D-SUB 25 pin plug, Tyco P/N 5747842-5
+
+0
+27
+26
+a_CONNECTORS
+DB_25M_V_old
+D-SUB 25 pin plug, Tyco P/N 5747842-5
+
+0
+52
+26
+a_CONNECTORS
+DM3AT-SF-PEJM5
+Hirose MicroSD Card Connector - DM3AT
+microsd
+0
+14
+14
+a_CONNECTORS
+DM3AT-SF-PEJM5-microSD - Copy
+Hirose MicroSD Card Connector - DM3AT
+microsd
+0
+14
+14
+a_CONNECTORS
+GMKDS_3_2-P7.5-1731022
+GMKDS_3/2-P7.5-1731022
+GMKDS_3/2-P7.5-1731022
+0
+2
+2
+a_CONNECTORS
+JACK_ALIM
+module 1 pin (ou trou mecanique de percage)
+CONN JACK
+0
+3
+3
+a_CONNECTORS
+JACK_ALIM_R
+module 1 pin (ou trou mecanique de percage)
+CONN JACK
+0
+3
+3
+a_CONNECTORS
+JACK_ALIM_RV-round-backCu
+module 1 pin (ou trou mecanique de percage)
+CONN JACK
+0
+2
+2
+a_CONNECTORS
+JACK_ALIM_RV-round-drlplt-backCu
+connector jack
+CONN JACK
+0
+2
+2
+a_CONNECTORS
+JACK_ALIM_RV-round-drlplt-backCu2
+connector jack
+CONN JACK
+0
+4
+3
+a_CONNECTORS
+JACK_ALIM_RV-round-drlplt-backCu3
+connector jack
+CONN JACK
+0
+3
+3
+a_CONNECTORS
+JACK_ALIM_RV-round-drlplt-backCu3b
+connector jack
+CONN JACK
+0
+4
+3
+a_CONNECTORS
+JACK_ALIM_RV-round-drlplt-backCu4
+connector jack
+CONN JACK
+0
+4
+3
+a_CONNECTORS
+MC-1,5-2-G-P3.81
+MC 1,5/ 2-G-3,81-1 1803277 - 1803578 - 1850660
+Connector
+0
+2
+2
+a_CONNECTORS
+MC-1,5-2-G-P3.81-FRONT
+MC 1,5/ 2-G-3,81-1 1803277 - 1803578 - 1850660
+Connector
+0
+2
+2
+a_CONNECTORS
+MCV-1,5-3-G-3,81-1803439
+Phoenix COMBICON MKDS1 vertical terminal block, 3 pin, 3.81mm pitch
+
+0
+3
+3
+a_CONNECTORS
+MKDSN-5.08-1729144-t
+MKDSN 1,5/ 4-5,08 - 1729144
+DEV
+0
+4
+4
+a_CONNECTORS
+MKDS_1.5_2-P5.00-1715022
+MKDS_1.5_2-P5.00-17150223
+MKDS_1.5_2-P5.00-1715022
+0
+2
+2
+a_CONNECTORS
+MKDS_1.5_3-P5.00-1715035
+MKDS_1.5_3-P5.00-1715035
+MKDS_1.5_3-P5.00-1715035
+0
+3
+3
+a_CONNECTORS
+MKDS_1.5_4-P5.00-1715048
+MKDS_1.5_4-P5.00-1715048
+MKDS_1.5_4-P5.00-1715048
+0
+4
+4
+a_CONNECTORS
+Molex-22-11-2032_1x03_Pitch2.54mm
+Through hole straight pin header, 1x03, 2.54mm pitch, single row
+Through hole pin header THT 1x03 2.54mm single row
+0
+3
+3
+a_CONNECTORS
+Molex_MPT_1x03_Pitch2.54mm
+Through hole straight terminal block, 1x03, 2.54mm pitch, single row
+Through hole terminal block THT 1x03 2.54mm single row
+0
+3
+3
+a_CONNECTORS
+Molex_MPT_1x03_Pitch2.54mm-old
+Through hole straight terminal block, 1x03, 2.54mm pitch, single row
+Through hole terminal block THT 1x03 2.54mm single row
+0
+3
+3
+a_CONNECTORS
+NC3FAH
+A Series, 3 pole female XLR receptacle, grounding: without ground/shell contact, horizontal PCB mount, https://www.neutrik.com/en/product/nc3fah
+neutrik xlr a
+0
+3
+3
+a_CONNECTORS
+NC3FAH2
+A Series, 3 pole female XLR receptacle, grounding: without ground/shell contact, horizontal PCB mount, https://www.neutrik.com/en/product/nc3fah
+neutrik xlr a
+0
+4
+4
+a_CONNECTORS
+NC5FAH
+A Series, 5 pole female XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, horizontal PCB mount, https://www.neutrik.com/en/product/nc5fah
+neutrik xlr a
+0
+6
+6
+a_CONNECTORS
+NC5MAH
+A Series, 5 pole male XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, horizontal PCB mount, https://www.neutrik.com/en/product/nc5mah
+neutrik xlr a
+0
+6
+6
+a_CONNECTORS
+PAD_1_1.5x1.0
+pad 1 1.5x1.0
+CONN DEV
+0
+1
+1
+a_CONNECTORS
+PAD_1_2.0x1.0
+pad 1 2.0x1.0
+CONN DEV
+0
+1
+1
+a_CONNECTORS
+PAD_1_3.0x1.4
+pad 1 3x1.4
+CONN DEV
+0
+1
+1
+a_CONNECTORS
+PinHeader_1x08_P2.54mm_Vertical
+Through hole straight pin header, 1x08, 2.54mm pitch, single row
+Through hole pin header THT 1x08 2.54mm single row
+0
+8
+8
+a_CONNECTORS
+PinSocket_1x08_P2.54mm_Vertical
+Through hole straight socket strip, 1x08, 2.54mm pitch, single row
+Through hole socket strip THT 1x08 2.54mm single row
+0
+8
+8
+a_CONNECTORS
+RJ45_8
+
+RJ45
+0
+8
+8
+a_CONNECTORS
+RJ45_TRANSFO
+
+RJ45
+0
+16
+15
+a_CONNECTORS
+RJ45_TRANSFO_10_V
+
+RJ45
+0
+12
+12
+a_CONNECTORS
+RJ45_TRANSFO_WE
+
+RJ45
+0
+14
+14
+a_CONNECTORS
+RJ45_TRANSFO_WE_V
+
+RJ45
+0
+14
+14
+a_CONNECTORS
+TSR2405
+
+TSR2405
+0
+3
+3
+a_CONNECTORS
+Tayda_3.5mm_stereo_TRS_jack_A-853
+
+
+0
+5
+5
+a_CONNECTORS
+encoder_board_footprint
+encoder_footprint_5 StepUp generated footprint
+
+0
+20
+8
+a_CONNECTORS
+eth-pb-lcd-uc-mask
+Converted from eth-pb-lcd-uc-mask
+
+0
+32
+32
+a_CONNECTORS
+jack_dc_wurth_h
+694108301002
+Connector
+0
+3
+3
+a_CONNECTORS
+jumper_1
+Jumper
+
+0
+2
+2
+a_CONNECTORS
+mkds_1,5-3
+3-way 5mm pitch terminal block, Phoenix MKDS series
+
+0
+3
+3
+a_CONNECTORS
+mstbva_2.5-3-g-5.08
+Terminal block 3 pins, Phoenix MSTBVA 2,5/3-G-5,08
+DEV
+0
+3
+3
+a_CONNECTORS
+p_strip_127mm_5_round
+Pin strip 127mm 5pin
+CONN DEV
+0
+5
+5
+a_CONNECTORS
+p_strip_127mm_9_round
+Pin strip 127mm 9pin
+CONN DEV
+0
+9
+9
+a_CONNECTORS
+p_strip_127mm_9_round2
+Pin strip 127mm 9pin
+CONN DEV
+0
+18
+9
+a_CONNECTORS
+p_strip_127mm_9_round3
+Pin strip 127mm 9pin
+CONN DEV
+0
+18
+9
+a_CONNECTORS
+pin_socket_5x1
+Pin socket 5pin
+CONN DEV
+0
+5
+5
+a_CONNECTORS
+pin_socket_20
+Pin socket 20pin
+CONN DEV
+0
+20
+20
+a_CONNECTORS
+pin_socket_20_90g
+Pin socket 20pin 90g
+CONN DEV
+0
+20
+20
+a_CONNECTORS
+pin_strip_1
+Pin strip 1pin
+CONN DEV
+0
+1
+1
+a_CONNECTORS
+pin_strip_1_09
+Pin strip 1pin
+CONN DEV
+0
+1
+1
+a_CONNECTORS
+pin_strip_2
+Pin strip 2pin
+CONN DEV
+0
+2
+2
+a_CONNECTORS
+pin_strip_3
+Pin strip 3pin
+CONN DEV
+0
+3
+3
+a_CONNECTORS
+pin_strip_4
+Pin strip 5pin
+CONN DEV
+0
+4
+4
+a_CONNECTORS
+pin_strip_5
+Pin strip 5pin
+CONN DEV
+0
+5
+5
+a_CONNECTORS
+pin_strip_20_90g
+Pin strip 20pin 90g
+CONN DEV
+0
+20
+20
+a_CONNECTORS
+pin_strip_127mm_5
+Pin strip 127mm 5pin
+CONN DEV
+0
+5
+5
+a_CONNECTORS
+pin_strip_127mm_9
+Pin strip 127mm 9pin
+CONN DEV
+0
+9
+9
+a_CONNECTORS
+t1
+D-SUB 25 pin plug, Tyco P/N 5747842-5
+
+0
+0
+0
+a_CONNECTORS
+tyco-bnc-t
+
+
+0
+5
+2
+a_CONNECTORS
+tyco-mini-bnc-t
+
+
+0
+5
+2
+a_CONNECTORS
+virtual-module
+
+
+0
+0
+0
+a_Fiducials
+Fiducial_0.7mm_Dia_1.5mm_Outer_CopperTop
+Circular Fiducial, 0.7mm bare copper top; 1.5mm keepout
+marker
+0
+1
+1
+a_Fiducials
+Fiducial_0.7mm_Dia_2.0mm_Outer_CopperTop
+Circular Fiducial, 0.7mm bare copper top; 2.0mm keepout
+marker
+0
+1
+1
+a_Fiducials
+Fiducial_1mm_Dia_2.54mm_Outer_CopperBottom
+Circular Fiducial, 1mm bare copper bottom; 2.54mm keepout
+marker
+0
+1
+1
+a_Fiducials
+Fiducial_1mm_Dia_2.54mm_Outer_CopperTop
+Circular Fiducial, 1mm bare copper top; 2.54mm keepout
+marker
+0
+1
+1
+a_Fiducials
+Fiducial_Modern_CopperBottom
+Fiducial, Modern, Copper Bottom, Passermarke,
+Fiducial, Modern, Copper Bottom, Passermarke,
+0
+1
+0
+a_Fiducials
+Fiducial_Modern_CopperTop
+Fiducial, Modern, Copper Top, Passermarke,
+Fiducial, Modern, Copper Top, Passermarke,
+0
+1
+0
+a_Fiducials
+Fiducial_Modern_SilkscreenTop
+Fiducial, Modern, Silkscreen Top, Passermarke,
+Fiducial, Modern, Silkscreen Top, Passermarke,
+0
+1
+0
+a_Fiducials
+Fiducial_classic_Small_CopperBottom_Type1
+Fiducial, Classical, Small, Copper Bottom, Typ 1, Passermarke,
+Fiducial, Classical, Small, Copper Bottom, Typ 1, Passermarke,
+0
+1
+0
+a_Fiducials
+Fiducial_classic_Small_CopperBottom_Type2
+Fiducial, Classical, Small, Copper Bottom, Typ 2, Passermarke,
+Fiducial, Classical, Small, Copper Bottom, Typ 2, Passermarke,
+0
+1
+0
+a_Fiducials
+Fiducial_classic_Small_CopperTop_Type1
+Fiducial, Classical, Small, Copper Top, Typ 1, Passermarke,
+Fiducial, Classical, Small, Copper Top, Typ 1, Passermarke,
+0
+1
+0
+a_Fiducials
+Fiducial_classic_Small_CopperTop_Type2
+Fiducial, Classical, Small, Copper Top, Typ 2, Passermarke,
+Fiducial, Classical, Small, Copper Top, Typ 2, Passermarke,
+0
+1
+0
+a_Fiducials
+Fiducial_classic_Small_SilkscreenTop_Type1
+Fiducial, Classical, Small, Copper Top, Typ 1, Passermarke,
+Fiducial, Classical, Small, Copper Top, Typ 1, Passermarke,
+0
+1
+0
+a_Fiducials
+Fiducial_classic_Small_SilkscreenTop_Type2
+Fiducial, Classical, Small, Silkscreen Top, Typ 2, Passermarke,
+Fiducial, Classical, Small, Silkscreen Top, Typ 2, Passermarke,
+0
+1
+0
+a_Fiducials
+Fiducial_classic_big_CopperBottom_Type1
+Fiducial, Classical, Big, Copper Bottom, Typ 1, Passermarke,
+Fiducial, Classical, Big, Copper Bottom, Typ 1, Passermarke, Passermarke,
+0
+1
+0
+a_Fiducials
+Fiducial_classic_big_CopperBottom_Type2
+Fiducial, Classical, Big, Copper Bottom, Typ 2, Passermarke,
+Fiducial, Classical, Big, Copper Bottom, Typ 2, Passermarke, Passermarke,
+0
+1
+0
+a_Fiducials
+Fiducial_classic_big_CopperTop_Type1
+Fiducial, Classical, Big, Copper Top, Typ 1, Passermarke,
+Fiducial, Classical, Big, Copper Top, Typ 1, Passermarke,
+0
+1
+0
+a_Fiducials
+Fiducial_classic_big_CopperTop_Type2
+Fiducial, Classical, Big, Copper Top, Typ 2, Passermarke,
+Fiducial, Classical, Big, Copper Top, Typ 2, Passermarke,
+0
+1
+0
+a_Fiducials
+Fiducial_classic_big_SilkscreenTop_Type1
+Fiducial, Classical, Big, Silkscreen Top, Typ 1, Passermarke,
+Fiducial, Classical, Big, Silkscreen Top, Typ 1, Passermarke,
+0
+1
+0
+a_Fiducials
+Fiducial_classic_big_SilkscreenTop_Type2
+Fiducial, Classical, Big, Silkscreen Top, Typ 2, Passermarke,
+Fiducial, Classical, Big, Silkscreen Top, Typ 2, Passermarke,
+0
+1
+0
+a_INDUCTORS
+B82477G4
+B82477G4 Series - Shielded SMD Power Inductors
+
+0
+2
+2
+a_INDUCTORS
+IHLP5050FD
+IHLP5050FD
+
+0
+2
+2
+a_INDUCTORS
+SRN3015
+
+
+0
+2
+2
+a_INDUCTORS
+SRR1210
+SRR1210 Series - Shielded SMD Power Inductors
+
+0
+2
+2
+a_INDUCTORS
+VRG27-10A
+INDUCTOR2_10A
+
+0
+6
+3
+a_INDUCTORS
+VRG27-10A-old
+INDUCTOR2_10A
+
+0
+4
+3
+a_INDUCTORS
+dss6
+Pin strip 3pin
+CONN DEV
+0
+3
+3
+a_INDUCTORS
+trafo-PS
+trafo1
+
+0
+4
+4
+a_LOGOS
+CE_5x3.6mm
+CE logo, 5x3.6mm
+
+0
+0
+0
+a_LOGOS
+CE_5x3mm-back
+
+
+0
+0
+0
+a_LOGOS
+LM2L
+
+
+0
+0
+0
+a_LOGOS
+Logo_copper_high_voltage_5x4.2mm
+High voltage logo, 5x4.2mm
+
+0
+0
+0
+a_LOGOS
+Logo_copper_high_voltage_10x8.5mm
+High voltage logo, 10x8.5mm
+
+0
+0
+0
+a_LOGOS
+Logo_silk_high_voltage_5x4.2mm
+High voltage logo, 5x4.2mm
+
+0
+0
+0
+a_LOGOS
+Logo_silk_high_voltage_10x8.5mm
+High voltage logo, 10x8.5mm
+
+0
+0
+0
+a_LOGOS
+WEEE_8x10mm
+WEEE logo, 8x10mm
+
+0
+0
+0
+a_LOGOS
+positive-pol
+
+
+0
+0
+0
+a_LOGOS
+positive-pol-back
+
+
+0
+0
+0
+a_LOGOS
+weee-5mm-back
+
+
+0
+0
+0
+a_PWR
+CPFE500F
+
+
+0
+0
+0
+a_PWR
+Fuseholder5x20_vert_closed_10mm
+Fuseholder, 5x20, closed, vertical, 10mm
+Fuseholder 5x20 closed vertical 10mm
+0
+3
+2
+a_PWR
+THL25
+
+
+0
+6
+6
+a_PWR
+TMPS05
+
+
+0
+5
+5
+a_PWR
+tms25c
+
+
+0
+0
+0
+a_RELAYS
+PE014012
+
+
+0
+5
+5
+a_RELAYS
+ars1012-t
+
+
+0
+9
+9
+a_RELAYS
+g6z-t
+
+
+0
+9
+8
+a_RELAYS
+gsy-t
+
+
+0
+8
+8
+a_Robit_LOGOS
+1pinD35a
+module 1 pin (ou trou mecanique de percage)
+DEV
+0
+1
+1
+a_Robit_LOGOS
+Logo-robitcom
+
+
+0
+0
+0
+a_Robit_LOGOS
+logo-3D
+
+
+0
+0
+0
+a_Robit_LOGOS
+logo-3D-robit
+
+
+0
+0
+0
+a_Robit_LOGOS
+rl-large
+
+
+0
+0
+0
+a_Robit_LOGOS
+rl-lg-back
+
+
+0
+0
+0
+a_Robit_LOGOS
+rl-sm-back
+
+
+0
+0
+0
+a_Robit_LOGOS
+rl-small
+
+
+0
+0
+0
+a_SMD_CAP
+C_0402_1005Metric
+Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+capacitor
+0
+2
+2
+a_SMD_CAP
+c_0402
+SMT cap, 0402
+
+0
+2
+2
+a_SMD_CAP
+c_0402-old
+SMT cap, 0402
+
+0
+2
+2
+a_SMD_CAP
+c_0603
+SMT resistor, 0603
+
+0
+2
+2
+a_SMD_CAP
+c_0603L
+SMT resistor, 0603
+
+0
+2
+2
+a_SMD_CAP
+c_0603M
+SMT resistor, 0603
+
+0
+2
+2
+a_SMD_CAP
+c_0805
+SMT capacitor, 0805
+
+0
+2
+2
+a_SMD_CAP
+c_1206
+SMT capacitor, 1206
+
+0
+2
+2
+a_SMD_CAP
+c_1210
+SMT capacitor, 1210
+
+0
+2
+2
+a_SMD_CAP
+c_2416
+SMT capacitor, 2416
+
+0
+2
+2
+a_SMD_CAP
+c_elec_8x10
+SMT capacitor, aluminium electrolytic, 8x10
+
+0
+2
+2
+a_SMD_CAP
+c_elec_10x12
+SMT capacitor, aluminium electrolytic, 10x12
+
+0
+2
+2
+a_SMD_CAP
+c_tant_A
+SMT capacitor, tantalum size A
+
+0
+2
+2
+a_SMD_CAP
+c_tant_A-old
+SMT capacitor, tantalum size A
+
+0
+2
+2
+a_SMD_CAP
+c_tant_B
+SMT capacitor, tantalum size B
+
+0
+2
+2
+a_SMD_CAP
+c_tant_D
+SMT capacitor, tantalum size D
+
+0
+2
+2
+a_SMD_DIL
+DDC0006A
+
+
+0
+6
+6
+a_SMD_DIL
+so-4
+
+
+0
+4
+4
+a_SMD_DIL
+so-8
+SO-8
+
+0
+8
+8
+a_SMD_DIL
+so-14
+
+
+0
+14
+14
+a_SMD_DIL
+soic-4
+
+
+0
+4
+4
+a_SMD_DIL
+soic-20
+SOIC Wide, 20 pins
+
+0
+20
+20
+a_SMD_DIL
+soic-28
+SOIC Wide, 28 pins
+
+0
+28
+28
+a_SMD_DIL
+ssop-28
+SSOP-16
+
+0
+28
+28
+a_SMD_DIL
+tssop-14
+
+
+0
+14
+14
+a_SMD_DIL
+tssop-16
+TSSOP-16
+
+0
+16
+16
+a_SMD_DIL
+vssop-8
+
+
+0
+8
+8
+a_SMD_DIODE-TR
+DDC0006A
+
+
+0
+6
+6
+a_SMD_DIODE-TR
+D_LED_5630
+
+
+0
+6
+4
+a_SMD_DIODE-TR
+D_LED_5730
+
+
+0
+4
+2
+a_SMD_DIODE-TR
+Led_0603
+SMD LED, 0603
+
+0
+2
+2
+a_SMD_DIODE-TR
+SOT-89-3
+SOT-89-3
+SOT-89-3
+0
+6
+3
+a_SMD_DIODE-TR
+SOT-89-3-v0
+SOT89-3
+SOT89-3
+0
+6
+3
+a_SMD_DIODE-TR
+SOT-89-3-v1
+SOT89-3
+SOT89-3
+0
+6
+3
+a_SMD_DIODE-TR
+SOT23-BEC
+
+SOT23-BEC
+0
+3
+3
+a_SMD_DIODE-TR
+SOT23-GSD
+
+SOT23-GSD
+0
+3
+3
+a_SMD_DIODE-TR
+SOT23-P2C
+
+SOT23-P2C
+0
+3
+3
+a_SMD_DIODE-TR
+TRIAC_TO218
+TRIAC_TO218
+
+0
+3
+3
+a_SMD_DIODE-TR
+d-pak
+D-pak
+
+0
+3
+3
+a_SMD_DIODE-TR
+do214ab
+DO214AB
+
+0
+2
+2
+a_SMD_DIODE-TR
+do214ac
+DO214AC
+
+0
+2
+2
+a_SMD_DIODE-TR
+led_3mm_blue
+3mm (T-1) blue led
+led
+0
+2
+2
+a_SMD_DIODE-TR
+led_3mm_blue_drill
+3mm (T-1) blue led
+led
+0
+2
+2
+a_SMD_DIODE-TR
+led_3mm_blue_long
+3mm (T-1) blue led
+led
+0
+2
+2
+a_SMD_DIODE-TR
+led_3mm_green_long
+3mm (T-1) blue led
+led
+0
+2
+2
+a_SMD_DIODE-TR
+led_3mm_red_long
+3mm (T-1) blue led
+led
+0
+2
+2
+a_SMD_DIODE-TR
+sc70-GSD
+SC70-GSD
+
+0
+3
+3
+a_SMD_DIODE-TR
+sc70-GSD-OLD
+SC70-GSD
+
+0
+3
+3
+a_SMD_DIODE-TR
+sc70-P2C
+SC70-P2C
+
+0
+3
+3
+a_SMD_DIODE-TR
+sod-523
+http://www.diodes.com/datasheets/ap02001.pdf p.144
+Diode SOD523
+0
+2
+2
+a_SMD_DIODE-TR
+sod80c
+SOD80C
+
+0
+2
+2
+a_SMD_DIODE-TR
+sod123
+SOD123
+
+0
+2
+2
+a_SMD_DIODE-TR
+sod123-test
+SOD123
+
+0
+2
+2
+a_SMD_DIODE-TR
+sod323
+SOD323
+
+0
+2
+2
+a_SMD_DIODE-TR
+sot23-5
+SOT23-5
+
+0
+5
+5
+a_SMD_DIODE-TR
+sot23-5-old
+SOT23-5
+
+0
+5
+5
+a_SMD_DIODE-TR
+sot23-6
+SOT23-6
+
+0
+6
+6
+a_SMD_DIODE-TR
+sot23-6M
+SOT23-6M
+
+0
+6
+6
+a_SMD_DIODE-TR
+sot23-8
+
+
+0
+8
+8
+a_SMD_DIODE-TR
+sot223
+SOT223
+
+0
+4
+4
+a_SMD_DIODE-TR
+tlp3215
+TLP3215
+
+0
+4
+4
+a_SMD_LQFP
+TQFP44_Microchip
+
+
+0
+44
+44
+a_SMD_LQFP
+lqfp64
+LQFP-64
+
+0
+64
+64
+a_SMD_LQFP
+lqfp64-base
+LQFP-64
+
+0
+64
+64
+a_SMD_LQFP
+lqfp80
+LQFP-80
+
+0
+80
+80
+a_SMD_QFN
+QFN-24-4x4p0.5-wd-r4
+24-Lead Plastic Quad Flat, No Lead Package (MJ) - 4x4x0.9 mm Body [QFN]
+QFN 0.5
+0
+43
+25
+a_SMD_QFN
+QFN-140_38x40_Pitch1mm
+
+
+0
+140
+140
+a_SMD_QFN
+QFN_24_EP_p05
+
+
+0
+38
+25
+a_SMD_QFN
+test
+
+
+0
+38
+25
+a_SMD_RES
+r_0402
+SMT resistor, 0402
+resistor
+0
+2
+2
+a_SMD_RES
+r_0402-old
+SMT resistor, 0402
+
+0
+2
+2
+a_SMD_RES
+r_0603
+SMT resistor, 0603
+
+0
+2
+2
+a_SMD_RES
+r_0603L
+SMT resistor, 0603
+
+0
+2
+2
+a_SMD_RES
+r_0603M
+SMT resistor, 0603
+
+0
+2
+2
+a_SMD_RES
+r_0805
+SMT resistor, 0805
+
+0
+2
+2
+a_SMD_RES
+r_1206
+SMT resistor, 1206
+
+0
+2
+2
+a_SMD_RES
+r_2010
+SMT resistor, 2010
+
+0
+2
+2
+a_SMD_RES
+tms4yl
+
+
+0
+3
+3
+a_SMD_RESONATOR
+XRCGB
+XRCGB ultra miniature size low profile SMD Crystal unit
+
+0
+4
+4
+a_SMD_RESONATOR
+crystal_smd_5x3.2mm
+5x3.2mm SMD glass Crystal
+
+0
+2
+2
+a_SMD_RESONATOR
+resonator_smd_CSTCE
+resonator CSTCE
+
+0
+3
+3
+a_TH_DIODE-TR
+DO_41_P10.16mm
+D, DO-41_SOD81 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/DO-41%20(Plastic).pdf
+D DO-41_SOD81 series Axial Horizontal pin pitch 10.16mm  length 5.2mm diameter 2.7mm
+0
+2
+2
+a_TH_DIODE-TR
+Diode_Bridge_Round_D8.9mm
+4-lead round diode bridge package, diameter 8.9mm, pin pitch 5.08mm, see http://cdn-reichelt.de/documents/datenblatt/A400/W005M-W10M_SEP.PDF
+diode bridge 8.9mm 8.85mm WOB pitch 5.08mm
+0
+4
+4
+a_TH_DIODE-TR
+TO-218_SOT93_Vertical
+TO-218, Vertical, RM 5.47mm, SOT93
+TO-218 Vertical RM 5.47mm SOT93
+0
+3
+3
+a_TH_DIODE-TR
+TO-220-5_P3.4x3.7mm_StaggerEven_Lead3.8mm_Vertical
+TO-220-5, Vertical, RM 1.7mm, Pentawatt, Multiwatt-5, staggered type-2, see http://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/ltc-legacy-to-220/to-220_5_05-08-1421.pdf?domain=www.linear.com, https://www.diodes.com/assets/Package-Files/TO220-5.pdf
+TO-220-5 Vertical RM 1.7mm Pentawatt Multiwatt-5 staggered type-2
+0
+5
+5
+a_TH_DIODE-TR
+TO-220-5_P3.4x3.7mm_StaggerOdd_Lead3.8mm_Vertical
+TO-220-5, Vertical, RM 1.7mm, Pentawatt, Multiwatt-5, staggered type-1, see http://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/ltc-legacy-to-220/to-220_5_05-08-1421.pdf?domain=www.linear.com, https://www.diodes.com/assets/Package-Files/TO220-5.pdf
+TO-220-5 Vertical RM 1.7mm Pentawatt Multiwatt-5 staggered type-1
+0
+5
+5
+a_TH_DIODE-TR
+TO-220-5_Vertical
+TO-220-5, Vertical, RM 1.7mm, Pentawatt, Multiwatt-5, see http://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/ltc-legacy-to-220/to-220_5_05-08-1421_straight_lead.pdf
+TO-220-5 Vertical RM 1.7mm Pentawatt Multiwatt-5
+0
+5
+5
+a_TH_DIODE-TR
+TO-220_Vertical
+TO-220, Vertical, RM 2.54mm
+TO-220 Vertical RM 2.54mm
+0
+3
+3
+a_TH_DIODE-TR
+aletta-6396bg
+Aletta-6396bg StepUp generated footprint
+
+0
+2
+1
+a_TH_DIODE-TR
+aletta-6396bg-old
+Aletta-6396bg StepUp generated footprint
+
+0
+0
+0
+a_TH_DIODE-TR
+to220-5-horizontal-inverted
+TO220HInv, 5pins
+
+0
+10
+5
+a_TH_DIODE-TR
+to220-5-horizontal-inverted-old
+TO220HInv, 5pins
+
+0
+5
+5
