@@ -65,6 +65,7 @@ class DeleteVias(pcbnew.ActionPlugin):
         self.category = "Modify PCB"
         self.description = "DeleteVias Test Plugin"
         self.show_toolbar_button = True
+        self.icon_file_name = os.path.join(os.path.dirname(__file__), 'delete_vias.png')
         
     def Run(self):
         pcb = pcbnew.GetBoard() 

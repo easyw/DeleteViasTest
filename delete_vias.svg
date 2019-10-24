@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="51.200001"
+   width="51.200001"
+   version="1.1"
+   id="svg3054"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="delete_vias.svg"
+   viewBox="0 0 48 48"
+   inkscape:export-filename="C:\Users\userC\AppData\Roaming\kicad\scripting\plugins\DeleteViasTest\delete_vias.png"
+   inkscape:export-xdpi="60"
+   inkscape:export-ydpi="60">
+  <metadata
+     id="metadata3081">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2560"
+     inkscape:window-height="1361"
+     id="namedview3079"
+     showgrid="false"
+     inkscape:zoom="7.1289061"
+     inkscape:cx="0.77150633"
+     inkscape:cy="25.6"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3054" />
+  <defs
+     id="defs3056">
+    <filter
+       id="a"
+       height="1.2769001"
+       width="1.2769001"
+       y="-0.13846999"
+       x="-0.13846999"
+       style="color-interpolation-filters:sRGB">
+      <feGaussianBlur
+         stdDeviation="0.11539203"
+         id="feGaussianBlur3059" />
+    </filter>
+    <marker
+       id="h"
+       refY="0"
+       refX="0"
+       overflow="visible"
+       orient="auto"
+       style="overflow:visible">
+      <path
+         d="M 8.7186,4.0337 -2.2074,0.016 8.7186,-4.0017 c -1.7455,2.3721 -1.7354,5.6175 0,8.0354 z"
+         transform="scale(0.6)"
+         id="path10"
+         inkscape:connector-curvature="0"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </marker>
+    <marker
+       id="g"
+       refY="0"
+       refX="0"
+       overflow="visible"
+       orient="auto"
+       style="overflow:visible">
+      <path
+         d="M 8.7186,4.0337 -2.2074,0.016 8.7186,-4.0017 c -1.7455,2.3721 -1.7354,5.6175 0,8.0354 z"
+         transform="scale(-0.6)"
+         id="path13"
+         inkscape:connector-curvature="0"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </marker>
+    <marker
+       id="h-4"
+       refY="0"
+       refX="0"
+       overflow="visible"
+       orient="auto"
+       style="overflow:visible">
+      <path
+         d="M 8.7186,4.0337 -2.2074,0.016 8.7186,-4.0017 c -1.7455,2.3721 -1.7354,5.6175 0,8.0354 z"
+         transform="scale(0.6)"
+         id="path10-0"
+         inkscape:connector-curvature="0"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </marker>
+    <marker
+       id="g-9"
+       refY="0"
+       refX="0"
+       overflow="visible"
+       orient="auto"
+       style="overflow:visible">
+      <path
+         d="M 8.7186,4.0337 -2.2074,0.016 8.7186,-4.0017 c -1.7455,2.3721 -1.7354,5.6175 0,8.0354 z"
+         transform="scale(-0.6)"
+         id="path13-4"
+         inkscape:connector-curvature="0"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </marker>
+    <marker
+       id="marker4760"
+       refY="0"
+       refX="0"
+       overflow="visible"
+       orient="auto"
+       style="overflow:visible">
+      <path
+         d="M 8.7186,4.0337 -2.2074,0.016 8.7186,-4.0017 c -1.7455,2.3721 -1.7354,5.6175 0,8.0354 z"
+         transform="scale(0.6)"
+         id="path4762"
+         inkscape:connector-curvature="0"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </marker>
+    <marker
+       id="marker4764"
+       refY="0"
+       refX="0"
+       overflow="visible"
+       orient="auto"
+       style="overflow:visible">
+      <path
+         d="M 8.7186,4.0337 -2.2074,0.016 8.7186,-4.0017 c -1.7455,2.3721 -1.7354,5.6175 0,8.0354 z"
+         transform="scale(-0.6)"
+         id="path4766"
+         inkscape:connector-curvature="0"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </marker>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3869"
+       id="linearGradient3875"
+       x1="-45"
+       y1="1044.3622"
+       x2="-55"
+       y2="994.36218"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.86647729,0,0,0.86647741,69.620571,-894.27763)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3869">
+      <stop
+         style="stop-color:#a40000;stop-opacity:1"
+         offset="0"
+         id="stop3871" />
+      <stop
+         style="stop-color:#ef2929;stop-opacity:1"
+         offset="1"
+         id="stop3873" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3869"
+       id="linearGradient936"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.86647729,0,0,0.86647741,69.620571,-894.27763)"
+       x1="-45"
+       y1="1044.3622"
+       x2="-55"
+       y2="994.36218" />
+  </defs>
+  <g
+     transform="matrix(3.3534,0,0,2.4765,-1.5227797,14.344627)"
+     id="g3073"
+     inkscape:export-filename="C:\Cad\Progetti_K\3D-FreeCad-tools\annular.png"
+     inkscape:export-xdpi="53.68"
+     inkscape:export-ydpi="53.68">
+    <rect
+       height="16"
+       width="16"
+       y="0"
+       x="0"
+       id="rect3075"
+       style="fill-opacity:0" />
+  </g>
+  <g
+     id="g955"
+     transform="translate(-5.8584977,-10.697783)"
+     inkscape:export-xdpi="66.361847"
+     inkscape:export-ydpi="66.361847">
+    <path
+       d="m 32.790319,26.480774 a 10.545858,10.707923 89.999618 1 1 -21.415845,0 10.545858,10.707923 89.999618 1 1 21.415845,0 z"
+       id="path3067"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#16bf11;stroke-width:9.15305614" />
+    <g
+       transform="matrix(5.9904452,0,0,5.9984637,-97.72968,2.4865986)"
+       id="g3069"
+       style="fill:#ffffff">
+      <path
+         d="m -15.125,8.9375 a 0.90625,0.9375 0 1 1 -1.8125,0 0.90625,0.9375 0 1 1 1.8125,0 z"
+         transform="matrix(1.1034,0,-2.1667e-7,1.0667,37.69,-5.5333)"
+         id="path3071"
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff;fill-rule:evenodd" />
+    </g>
+    <path
+       inkscape:export-ydpi="53.68"
+       inkscape:export-xdpi="53.68"
+       inkscape:export-filename="C:\Cad\Progetti_K\3D-FreeCad-tools\annular.png"
+       style="fill:none;stroke:#ff0c0c;stroke-width:6.90841627;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       id="path3077"
+       d="m 30.69521,26.522581 a 8.707635,8.658066 0 0 1 -17.41527,0 8.707635,8.658066 0 1 1 17.41527,0 z" />
+  </g>
+  <g
+     id="g50"
+     transform="matrix(1.6262979,0,0,1.2104957,-29.057051,-8.38233)">
+    <rect
+       style="fill-opacity:0"
+       id="rect52"
+       x="0"
+       y="0"
+       width="16"
+       height="16" />
+  </g>
+  <g
+     id="g944"
+     transform="matrix(0.52293173,0,0,0.52293173,17.895813,37.123491)"
+     inkscape:export-xdpi="66.361847"
+     inkscape:export-ydpi="66.361847">
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path3002"
+       d="M 8.9671605,-29.219279 47.092161,8.9057213"
+       style="fill:none;stroke:#280000;stroke-width:16;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path3002-6"
+       d="M 47.092161,-29.219279 8.9671605,8.9057213"
+       style="fill:none;stroke:#280000;stroke-width:16;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path3002-7"
+       d="M 8.9671605,-29.219279 47.092161,8.9057213"
+       style="fill:none;stroke:#ef2929;stroke-width:12;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path3002-6-5"
+       d="M 47.092161,-29.219279 8.9671605,8.9057213"
+       style="fill:none;stroke:#ef2929;stroke-width:12;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path3002-7-6"
+       d="M 8.9671605,-29.219279 47.092161,8.9057213"
+       style="fill:none;stroke:url(#linearGradient936);stroke-width:8;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path3002-6-5-2"
+       d="M 47.092161,-29.219279 8.9671605,8.9057213"
+       style="fill:none;stroke:url(#linearGradient3875);stroke-width:8;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+</svg>
