@@ -70,7 +70,13 @@ class DeleteVias(pcbnew.ActionPlugin):
     def Run(self):
         pcb = pcbnew.GetBoard() 
         tracks=pcb.GetTracks()
-        for track in tracks:
-            if track.Type() == pcbnew.PCB_VIA_T:
-                pcb.RemoveNative(track)
+        tracks_cp = list(tracks)
+        l = len (tracks_cp)
+        #for track in tracks_cp:
+        for i in range(l):
+            if tracks_cp[i].Type() == pcbnew.PCB_VIA_T:
+            #if track.Type() == pcbnew.PCB_VIA_T:
+                #pcb.RemoveNative(track)
+                pcb.RemoveNative(tracks_cp[i])
+                #pcb.DeleteNative(tracks_cp[i]) #this is making 'Segmentation fault (core dumped)' on k 5.99
         pcbnew.Refresh()
